@@ -234,4 +234,4 @@ This repository serves as the official landing page for Pushbullet. The software
 **Get the most recent version of Pushbullet today!**
 
 ---
-**Last updated:** 2026-09-20 14:29:39 UTC
+**Last updated:** 2026-09-20 17:57:30 UTC
